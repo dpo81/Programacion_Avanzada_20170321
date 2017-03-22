@@ -1,0 +1,11 @@
+c:/users/alumno/workspace/20170321
+
+
+git bash en el escritorio
+ingresar: git clone https://github.com/dpo81/Programacion_Avanzada_20170321
+
+
+en el escritorio genero una carpeta con el nomnre el repositorio, todo lo que se quiera subir hay que tirarlo ahí
+
+ingresar en el cmd git add
+
